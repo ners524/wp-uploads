@@ -1,0 +1,2 @@
+# wp-uploads
+save images
